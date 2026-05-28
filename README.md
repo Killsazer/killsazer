@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently deepening my expertise in **microservices architecture** with **NestJS** and advanced **React** performance optimization.
 - 📫 How to reach me: [kovalchuk.vadym.07@gmail.com](mailto:kovalchuk.vadym.07@gmail.com).
-- 📄 Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1xZhdzp3kT8at88BfMCMOwKG7MUWnJyZs/view?usp=sharing).
+- 📄 Know about my experiences: [**My Resume**](https://drive.google.com/file/d/1DwfW7QKygP3biLLRuMeH8CggBHHUks6M/view?usp=share_link).
 - ⚡ Fun fact: I fix most bugs by restarting the server.
 
 ---
